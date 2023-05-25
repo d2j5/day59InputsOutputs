@@ -3,11 +3,11 @@ import java.util.*;
 
 public class FileMerger {
     public static void main(String[] args) {
-        //Files path and
+        //Files path
         String inputFile1 = "C:\\Users\\Javier\\IdeaProjects\\day59InputsOutputs\\src\\input1.txt";
         String inputFile2 = "C:\\Users\\Javier\\IdeaProjects\\day59InputsOutputs\\src\\input2.txt";
 
-
+        //Names for the files that are going to be created.
         String mergedFile = "merged.txt";
         String commonFile = "common.txt";
 
